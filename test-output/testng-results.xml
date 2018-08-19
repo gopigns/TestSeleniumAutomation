@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52944" started-at="2018-08-13T07:19:13Z" finished-at="2018-08-13T07:20:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52944" started-at="2018-08-13T07:19:13Z" finished-at="2018-08-13T07:20:06Z">
+      <class name="trHubJUnitTestCases.TestTRHubAutomation">
+        <test-method status="PASS" signature="automationOfManageSAFEAccountF1()[pri:0, instance:trHubJUnitTestCases.TestTRHubAutomation@7113b13f]" name="automationOfManageSAFEAccountF1" duration-ms="52893" started-at="2018-08-13T07:19:13Z" finished-at="2018-08-13T07:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationOfManageSAFEAccountF1 -->
+      </class> <!-- trHubJUnitTestCases.TestTRHubAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
